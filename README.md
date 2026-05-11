@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-Building intelligent systems, scalable data pipelines and AI-powered applications.
-
-</div>
-
 <br>
 
 ---
