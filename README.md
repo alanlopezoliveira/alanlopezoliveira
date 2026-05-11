@@ -15,13 +15,6 @@ Building intelligent systems, scalable data pipelines and AI-powered application
 ---
 
 ## About Me 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alanlopezoliveira/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
 
 ```python
 class AlanLopezOliveira:
