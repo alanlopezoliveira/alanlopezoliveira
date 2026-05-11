@@ -1,46 +1,97 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alan%20López%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Big%20Data%20%7C%20AI%20Engineer&descAlignY=58" />
-
-<h1 align="center">Hola 👋, soy Alan López Oliveira</h1>
-<h3 align="center">Data Science • Big Data • Artificial Intelligence</h3>
-
 <div align="center">
 
-Apasionado por construir soluciones inteligentes usando datos, machine learning e ingeniería escalable.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,50:1C2541,100:3A506B&text=Alan%20López%20Oliveira&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Science%20•%20Big%20Data&descAlignY=58&descSize=18" />
 
 </div>
 
+<div align="center">
+
+Building intelligent systems, scalable data pipelines and AI-powered applications.
+
+</div>
+
+<br>
+
 ---
 
-# 🚀 Sobre mí
+## About Me 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alanlopezoliveira/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ```python
 class AlanLopezOliveira:
 
     def __init__(self):
-        self.role = "Data & AI Engineer"
-        self.language_spoken = ["es_ES", "en_US"]
-        self.interests = [
+        self.role = "AI & Data Engineer"
+        self.location = "Spain"
+        self.languages = ["Spanish", "English"]
+
+        self.focus = [
+            "Artificial Intelligence",
             "Machine Learning",
-            "Deep Learning",
-            "LLMs",
             "Big Data",
-            "Data Engineering"
+            "Data Engineering",
+            "MLOps",
+            "LLMs"
         ]
 
     def currently_learning(self):
         return [
-            "Advanced AI Systems",
-            "Distributed Computing",
-            "Cloud Architecture",
-            "Generative AI"
+            "Advanced AI Architectures",
+            "Distributed Systems",
+            "Generative AI",
+            "Cloud Infrastructure"
         ]
 ```
 
----
-
-# 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,kubernetes,postgres,mongodb,git,github,linux,vscode" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,docker,linux,vscode" />
+
+</div>
+
+**Core focus (Data Science / AI Engineering):**
+
+- Python (primary language)
+- SQL (data querying & modeling)
+- Pandas / NumPy (data analysis)
+- Scikit-learn (machine learning)
+- Docker (deployment & reproducibility)
+- Git (version control)
+- Linux (development environment)
+
+---
+
+## Current Interests
+
+- Artificial Intelligence Systems
+- Machine Learning Pipelines
+- Deep Learning
+- Large Language Models (LLMs)
+- Data Engineering
+- Distributed Computing
+- MLOps & Automation
+- AI Agents
+- Scalable Backend Systems
+- Big Data Infrastructure
+
+---
+
+<br>
+
+<div align="center">
+
+### "Turning data into intelligent systems."
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3A506B,50:1C2541,100:0B132B" />
