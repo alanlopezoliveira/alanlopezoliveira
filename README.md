@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,50:1C2541,100:3A506B&text=Alan%20López%20Oliveira&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Science%20•%20Big%20Data&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:3A506B,50:1C2541,100:0B132B&text=Alan%20L%C3%B3pez%20Oliveira&textBg=false&animation=fadeIn&section=header&reversal=true&descSize=0&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Big%20Data&descAlignY=55" />
 
 </div>
-
-<br>
-
----
 
 ## About Me 
 
@@ -16,7 +12,7 @@ class AlanLopezOliveira:
     def __init__(self):
         self.role = "AI & Data Engineer"
         self.location = "Spain"
-        self.languages = ["Spanish", "English"]
+        self.languages = ["Spanish", "English", "Galician"]
 
         self.focus = [
             "Artificial Intelligence",
@@ -50,6 +46,8 @@ class AlanLopezOliveira:
 - SQL (data querying & modeling)
 - Pandas / NumPy (data analysis)
 - Scikit-learn (machine learning)
+- Microsoft Fabric (data engineering & analytics platform)
+- Power BI (data visualization & business intelligence)
 - Docker (deployment & reproducibility)
 - Git (version control)
 - Linux (development environment)
@@ -71,14 +69,7 @@ class AlanLopezOliveira:
 
 ---
 
-<br>
-
 <div align="center">
 
-### "Turning data into intelligent systems."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3A506B,50:1C2541,100:0B132B&text=%22Turning%20data%20into%20intelligent%20systems.%22&textBg=false&section=footer&reversal=false&fontSize=30&fontColor=ffffff&fontAlignY=65" />
 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3A506B,50:1C2541,100:0B132B" />
