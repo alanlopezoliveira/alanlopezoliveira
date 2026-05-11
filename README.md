@@ -32,6 +32,8 @@ class AlanLopezOliveira:
         ]
 ```
 
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -66,8 +68,6 @@ class AlanLopezOliveira:
 - AI Agents
 - Scalable Backend Systems
 - Big Data Infrastructure
-
----
 
 <div align="center">
 
