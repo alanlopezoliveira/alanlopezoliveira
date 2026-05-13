@@ -38,7 +38,7 @@ class AlanLopezOliveira:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,anaconda,selenium,sklearn,java,linux,windows,mysql,mongodb,vscode,git,docker" />
 
 </div>
 
